@@ -76,9 +76,10 @@ body, html {
 .profile ul{
     text-align: center;
     background-color: rgb(145, 202, 224);
-    margin: 1.2rem 5rem;
+    width: 600px;
     font-size: 1.2rem;
     padding: 0.8rem 2rem;
+    margin: 1rem auto;
 }
 
 .profile ul li{
@@ -87,7 +88,8 @@ body, html {
 
 .intro-text{
     background-color: rgb(145, 202, 224);
-    margin: 0px 5rem;
+    width: 650px;
+    margin:auto;
     font-size: 20px;
 }
 
